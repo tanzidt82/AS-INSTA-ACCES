@@ -71,6 +71,12 @@
         "expirydate": "15-12-2026",
         "Allowoffline": false
     },
+	    {
+        "device_id": "41cc7fabd421a365",
+        "key": "nabil00",
+        "expirydate": "15-12-2026",
+        "Allowoffline": false
+    },
 
 
 
